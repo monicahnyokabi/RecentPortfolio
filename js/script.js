@@ -8,7 +8,7 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["I'm a Web Developer", 'I love React JS', 'I Love Bootstrap', 'I Love WordPress', 'I Love Node Js'],
+    strings: ["I'm a Front End Developer", 'I love React JS', 'I Love React Native', 'I Love WordPress', 'I Love Node Js'],
     loop: true
 });
 
